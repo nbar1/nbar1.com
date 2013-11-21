@@ -24,12 +24,12 @@
 		<section id="what_i_do">
 			<ul>
 				<li>I am a programmer specializing in both front-end and back-end architecture.</li>
-				<li>I use a lot of fancy things like <mark>css3</mark>, <mark>html5</mark> and <mark>JavaScript</mark>.</li>
+				<li>I use fancy things like <mark>css3</mark>, <mark>html5</mark> and <mark>JavaScript</mark>.</li>
 				<li>I use a lot of other fancy things you can't really see from here.</li>
 				<li>Things like <mark>PHP</mark>, <mark>Python</mark> and <mark>Node.js</mark>.</li>
 				<li>I like things like object-oriented design patterns and agile practices.</li>
 				<li>I really like where the web is going, and css3 in particular.</li>
-				<li>In fact, this whole site is css3, no JavaScript at all!.</li>
+				<li>In fact, this whole site is css3, no JavaScript at all!</li>
 			</ul>
 		</section>
 		<section id="where_i_am">
