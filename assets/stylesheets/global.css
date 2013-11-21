@@ -4,6 +4,7 @@ body {
 	background: #a6927b;
 	font-family: arial;
 	margin: 0;
+	overflow: hidden;
 	padding-top: 100px;
 }
 a {
