@@ -14,8 +14,6 @@
 			<label for="navigation_intent_1" rel="what_i_do">what i do</label>
 			<label for="navigation_intent_2" rel="where_i_am">where i am</label>
 		</nav>
-		<div id="navigation_intents">
-		</div>
 	</header>
 	<article id="title">&nbsp;Nick Barone</article>
 	<article id="pages">
