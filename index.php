@@ -6,7 +6,7 @@
 	<meta name="description" content="nick barone, nbar1, xnickbarone, sylvester barone" />
 	<meta name="keywords" content="The personal website of software engineer Nick Barone." />
 	<meta name="author" content="Nick Barone" />
-	<link rel="stylesheet" type="text/stylesheet" href="/assets/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/global.css" />
 </head>
 <body>
 	<header>
@@ -23,7 +23,7 @@
 		<input type="radio" name="navigation_intent" id="navigation_intent_2" />
 		<section id="what_i_do">
 			<ul>
-				<li>I am a programmer specializing in both front-end and back-end architecture.</li>
+				<li>I am a programmer specializing in both front-end and back-end development.</li>
 				<li>I use fancy things like <mark>css3</mark>, <mark>html5</mark> and <mark>JavaScript</mark>.</li>
 				<li>I use a lot of other fancy things you can't really see from here.</li>
 				<li>Things like <mark>PHP</mark>, <mark>Python</mark> and <mark>Node.js</mark>.</li>
