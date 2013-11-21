@@ -6,6 +6,7 @@
 	<meta name="description" content="nick barone, nbar1, xnickbarone, sylvester barone" />
 	<meta name="keywords" content="The personal website of software engineer Nick Barone." />
 	<meta name="author" content="Nick Barone" />
+	<link rel="icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/global.css" />
 </head>
 <body>
