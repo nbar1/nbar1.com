@@ -44,20 +44,20 @@ header #navigation_intents {
 /* Title
 ----------------------------*/
 article#title {
-	-webkit-animation: fadein 1s 1s forwards;
-	animation: fadein 1s 1s forwards;
+	-webkit-animation: fadein 1s 0.5s forwards;
+	animation: fadein 1s 0.5s forwards;
 	color: #332c25;
 	font-size: 80px;
 	opacity: 0;
 	text-align: center;
-	text-shadow: -1px -1px 1px #ccc, 1px 1px 1px;
+	text-shadow: -1px -1px 1px #bbb, 1px 1px 1px;
 }
 
 /* General Page Content
 ----------------------------*/
 article#pages {
-	-webkit-animation: fadein 1s 2s forwards;
-	animation: fadein 1s 2s forwards;
+	-webkit-animation: fadein 1s 1s forwards;
+	animation: fadein 1s 1s forwards;
 	opacity: 0;
 	overflow: visible;
 	width: 200%;
