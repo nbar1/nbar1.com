@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Nick Barone</title>
-	<meta name="title" content="Nick Barone - nbar1.com" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
 	<meta name="description" content="nick barone, nbar1, xnickbarone, sylvester barone" />
 	<meta name="keywords" content="The personal website of software engineer Nick Barone." />
 	<meta name="author" content="Nick Barone" />
